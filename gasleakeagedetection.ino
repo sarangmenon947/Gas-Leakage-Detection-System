@@ -42,11 +42,6 @@ void setup() {
   Serial.println("HTTP server started");
 }
 
-
-
-
-
-
 void loop() {
   int gasLeakageLevel;
 
