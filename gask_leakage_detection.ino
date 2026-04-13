@@ -1,8 +1,9 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
+#include "credentials.h"
 
-const char* ssid = "ABCD-EFG";       
-const char* password = "1234567890"; 
+const char* ssid     = WIFI_SSID;
+const char* password = WIFI_PASSWORD;
 
 const int smokeSensorPin = A0; 
 const int buzzerPin = D1;      
