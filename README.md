@@ -95,6 +95,3 @@ A Wi-Fi-enabled gas leakage detection system built with the ESP8266 microcontrol
 ├── .gitignore
 └── README.md
 ```
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
