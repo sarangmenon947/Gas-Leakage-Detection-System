@@ -2,7 +2,7 @@
 #include <ESP8266WebServer.h>
 #include "credentials.h"
 
-const char* ssid     = WIFI_SSID;
+const char* ssid = WIFI_SSID;
 const char* password = WIFI_PASSWORD;
 
 const int smokeSensorPin = A0; 
