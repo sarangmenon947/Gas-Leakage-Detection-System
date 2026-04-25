@@ -56,7 +56,7 @@ A Wi-Fi-enabled gas leakage detection system built with the ESP8266 microcontrol
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sarangmenon947/Gas-Leakage-Detection-System
+   git clone https://github.com/sarangmenon555/Gas-Leakage-Detection-System
    ```
 
 2. Create your `credentials.h` file.
